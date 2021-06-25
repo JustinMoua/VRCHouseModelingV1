@@ -1,0 +1,26 @@
+What to model:
+
+InfoOfMe Room:
+	- Desk
+	- Computer/Monitor
+
+Laundryroom
+	- TV
+	- Washer
+	- Dryer
+Kitchen
+	- Sink
+	- Dishwasher
+	- Referierator
+	- Cupboard
+	- Trash
+
+Bathroom
+	- Toilet
+	- Shower
+	- Sink
+	- Trash
+
+Diningroom
+	- Dining Table
+	- Chairs
